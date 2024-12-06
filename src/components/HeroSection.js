@@ -4,7 +4,7 @@ import ImageMockup from "../images/image-mockups.png";
 function HeroSection() {
   return (
     <section className="bg-gray-100 min-h-screen flex items-center">
-      <div className="container mx-auto flex flex-col lg:flex-row-reverse items-center px-6 lg:px-16 lg:justify-between space-y-10 lg:space-y-5 lg:space-x-15">
+      <div className="container mx-auto flex flex-col lg:flex-row-reverse items-center px-5 lg:px-16 lg:justify-between space-y-10 lg:space-y-5 lg:space-x-15">
         {/* Right Image */}
         <div className="flex-1">
           <img
